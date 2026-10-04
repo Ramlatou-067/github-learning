@@ -1,3 +1,3 @@
 I am learning Git and GitHub!
 Today I learned how to update a GitHub repository.
-I am learning how to pull changes from GitHub.
+I am learning how to pull changes from GitHub.Git diff helps me see my changes.
